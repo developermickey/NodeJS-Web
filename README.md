@@ -1,6 +1,6 @@
 # Building a Simple website with Node.js and Express
 
-This repository contains the code for my course 'Building a Website with Node.js Node.js' on [Technical Mickey Learning](https://www.github.com:developermickey/NodeJS-Web.git).
+This repository contains the code for my course 'Building a Simple website with Node.js and Express' on [Technical Mickey Learning](https://www.github.com:developermickey/NodeJS-Web.git).
 
 
 
